@@ -1,9 +1,19 @@
 {
   "tasks": [
     {
-      "id": "",
-      "name": "",
+      "id": "1",
+      "name": "Alejandro",
       "isDone": false
+    },
+    {
+      "id": "2",
+      "name": "Carles",
+      "isDone": true
+    },
+    {
+      "id": "3",
+      "name": "Correcto",
+      "isDone": true
     }
   ]
 }
